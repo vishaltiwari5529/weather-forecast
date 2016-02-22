@@ -1,0 +1,19 @@
+.thumbnail{
+  margin:0px !important;
+}
+.weather{
+  margin-top:80px;
+}
+
+  .asText {
+background:none;
+border:none;
+margin:0;
+padding:0;
+}
+.panel-body{
+  text-align:center;
+}
+.caption{
+  text-align:center;
+}
